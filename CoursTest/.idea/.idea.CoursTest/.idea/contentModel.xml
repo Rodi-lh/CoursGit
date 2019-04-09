@@ -3,6 +3,26 @@
   <component name="ContentModelStore">
     <e p="C:\Users\Rodolphe\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Rodolphe\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CoursTest.-110020657.00" t="ExcludeRecursive" />
+    <e p="D:\Projets\C#\bullet-train-dotnet-client-master" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="bullet-train-dotnet-client.csproj" t="IncludeRecursive" />
+      <e p="BulletTrainClient.cs" t="Include" />
+      <e p="Config.cs" t="Include" />
+      <e p="Feature.cs" t="Include" />
+      <e p="Flag.cs" t="Include" />
+      <e p="Identity.cs" t="Include" />
+      <e p="LICENSE.txt" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="bullet-train-dotnet-client.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Trait.cs" t="Include" />
+    </e>
     <e p="D:\Projets\C#\CoursTest" t="IncludeFlat">
       <e p="CoursTest.sln" t="IncludeFlat" />
       <e p="CoursTestWeb" t="IncludeRecursive">
