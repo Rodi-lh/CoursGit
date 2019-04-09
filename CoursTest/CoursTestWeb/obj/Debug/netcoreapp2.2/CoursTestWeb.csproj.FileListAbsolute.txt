@@ -5,8 +5,6 @@ D:\Projets\C#\CoursTest\CoursTestWeb\bin\Debug\netcoreapp2.2\CoursTestWeb.dll
 D:\Projets\C#\CoursTest\CoursTestWeb\bin\Debug\netcoreapp2.2\CoursTestWeb.pdb
 D:\Projets\C#\CoursTest\CoursTestWeb\bin\Debug\netcoreapp2.2\CoursTestWeb.Views.dll
 D:\Projets\C#\CoursTest\CoursTestWeb\bin\Debug\netcoreapp2.2\CoursTestWeb.Views.pdb
-D:\Projets\C#\CoursTest\CoursTestWeb\bin\Debug\netcoreapp2.2\bullet-train-dotnet-client.dll
-D:\Projets\C#\CoursTest\CoursTestWeb\bin\Debug\netcoreapp2.2\bullet-train-dotnet-client.pdb
 D:\Projets\C#\CoursTest\CoursTestWeb\obj\Debug\netcoreapp2.2\CoursTestWeb.csprojAssemblyReference.cache
 D:\Projets\C#\CoursTest\CoursTestWeb\obj\Debug\netcoreapp2.2\CoursTestWeb.csproj.CoreCompileInputs.cache
 D:\Projets\C#\CoursTest\CoursTestWeb\obj\Debug\netcoreapp2.2\CoursTestWeb.RazorAssemblyInfo.cache

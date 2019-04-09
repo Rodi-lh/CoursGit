@@ -14,11 +14,7 @@
     ],
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {
-          "D:\\Projets\\C#\\bullet-train-dotnet-client-master\\bullet-train-dotnet-client.csproj": {
-            "projectPath": "D:\\Projets\\C#\\bullet-train-dotnet-client-master\\bullet-train-dotnet-client.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {
@@ -30,10 +26,6 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
-        "BulletTrain": {
-          "target": "Package",
-          "version": "[1.0.1, )"
-        },
         "EntityFramework": {
           "target": "Package",
           "version": "[6.2.0, )"

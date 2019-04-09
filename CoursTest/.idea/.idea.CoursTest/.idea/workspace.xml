@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2356298a-933f-40b8-a1ee-030c7334eea2" name="Default Changelist" comment="" />
+    <list default="true" id="2356298a-933f-40b8-a1ee-030c7334eea2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoursTest/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTest.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/bullet-train-dotnet-client.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/bullet-train-dotnet-client.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/CoursTestWeb.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/CoursTestWeb.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +49,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoursTestWeb/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="15">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
               <folding>
-                <marker date="1554735482276" expanded="false" signature="6:98" ph="..." />
-                <marker date="1554735482276" expanded="true" signature="122:473" ph="{...}" />
-                <marker date="1554735482276" expanded="true" signature="149:471" ph="{...}" />
-                <marker date="1554735482276" expanded="true" signature="202:276" ph="{...}" />
-                <marker date="1554735482276" expanded="true" signature="351:465" ph="{...}" />
+                <marker date="1554809569086" expanded="true" signature="6:63" ph="..." />
+                <marker date="1554809569086" expanded="true" signature="87:438" ph="{...}" />
+                <marker date="1554809569086" expanded="true" signature="114:436" ph="{...}" />
+                <marker date="1554809569086" expanded="true" signature="167:241" ph="{...}" />
+                <marker date="1554809569086" expanded="true" signature="316:430" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoursTestWeb/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-156">
+            <state relative-caret-position="120">
               <caret line="16" column="43" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <marker date="1554732537659" expanded="false" signature="6:226" ph="..." />
@@ -61,14 +83,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoursTestWeb/Views/_ViewStart.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1554731041329" expanded="true" signature="0:28" ph="@..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -81,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoursTestWeb/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-156">
+            <state relative-caret-position="495">
               <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
               <folding>
                 <marker date="1554734586443" expanded="true" signature="16:3710" ph="&lt;html.../&gt;" />
@@ -112,12 +152,15 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../bullet-train-dotnet-client-master/Config.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoursTestWeb/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoursTestWeb/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoursTestWeb/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoursTestWeb/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoursTestWeb/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoursTestWeb/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CoursTestWeb/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -129,6 +172,7 @@
         <option value="$PROJECT_DIR$/CoursTestWeb/Views/Home/Privacy.cshtml" />
         <option value="$PROJECT_DIR$/CoursTestWeb/Views/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js" />
+        <option value="$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj" />
         <option value="$PROJECT_DIR$/CoursTestWeb/Program.cs" />
       </list>
     </option>
@@ -138,6 +182,7 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -156,12 +201,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="CoursTest" type="24d0babc:SolutionExplorerModelNode" />
               <item name="CoursTestWeb" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="CoursTest" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="CoursTestWeb" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -252,11 +291,12 @@
       <updated>1554731044761</updated>
       <workItem from="1554731047013" duration="3250000" />
       <workItem from="1554734323025" duration="1595000" />
+      <workItem from="1554809434934" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4845000" />
+    <option name="totallyTimeSpent" value="5461000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,8 +309,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29051173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29371002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -365,9 +406,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/wwwroot/lib/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <marker date="1554732537659" expanded="false" signature="6:226" ph="..." />
+            <marker date="1554732537659" expanded="true" signature="250:1997" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="277:1995" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="336:399" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="622:1075" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="695:972" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="1263:1989" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="1310:1387" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="1404:1663" ph="{...}" />
+            <marker date="1554732537659" expanded="true" signature="1806:1977" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/CoursTestWeb/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
+        <state relative-caret-position="495">
           <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
           <folding>
             <marker date="1554734586443" expanded="true" signature="16:3710" ph="&lt;html.../&gt;" />
@@ -395,68 +477,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoursTestWeb/wwwroot/lib/jquery/dist/jquery.js">
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1395">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoursTestWeb/Properties/launchSettings.json">
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/Views/_ViewStart.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoursTestWeb/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoursTestWeb/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
           <folding>
-            <marker date="1554732537659" expanded="false" signature="6:226" ph="..." />
-            <marker date="1554732537659" expanded="true" signature="250:1997" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="277:1995" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="336:399" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="622:1075" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="695:972" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="1263:1989" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="1310:1387" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="1404:1663" ph="{...}" />
-            <marker date="1554732537659" expanded="true" signature="1806:1977" ph="{...}" />
+            <marker date="1554731041329" expanded="true" signature="0:28" ph="@..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CoursTestWeb/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
           <folding>
-            <marker date="1554735482276" expanded="false" signature="6:98" ph="..." />
-            <marker date="1554735482276" expanded="true" signature="122:473" ph="{...}" />
-            <marker date="1554735482276" expanded="true" signature="149:471" ph="{...}" />
-            <marker date="1554735482276" expanded="true" signature="202:276" ph="{...}" />
-            <marker date="1554735482276" expanded="true" signature="351:465" ph="{...}" />
+            <marker date="1554809569086" expanded="true" signature="6:63" ph="..." />
+            <marker date="1554809569086" expanded="true" signature="87:438" ph="{...}" />
+            <marker date="1554809569086" expanded="true" signature="114:436" ph="{...}" />
+            <marker date="1554809569086" expanded="true" signature="167:241" ph="{...}" />
+            <marker date="1554809569086" expanded="true" signature="316:430" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoursTestWeb/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js">
+    <entry file="file://$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="56" lean-forward="true" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

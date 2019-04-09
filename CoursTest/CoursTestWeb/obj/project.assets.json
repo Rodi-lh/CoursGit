@@ -4465,19 +4465,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "BulletTrain/1.0.1": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.1"
-        },
-        "compile": {
-          "bin/placeholder/BulletTrain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BulletTrain.dll": {}
-        }
       }
     }
   },
@@ -12290,16 +12277,10 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "BulletTrain/1.0.1": {
-      "type": "project",
-      "path": "../../bullet-train-dotnet-client-master/bullet-train-dotnet-client.csproj",
-      "msbuildProject": "../../bullet-train-dotnet-client-master/bullet-train-dotnet-client.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "BulletTrain >= 1.0.1",
       "EntityFramework >= 6.2.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -12338,11 +12319,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "D:\\Projets\\C#\\bullet-train-dotnet-client-master\\bullet-train-dotnet-client.csproj": {
-              "projectPath": "D:\\Projets\\C#\\bullet-train-dotnet-client-master\\bullet-train-dotnet-client.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -12354,10 +12331,6 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
-          "BulletTrain": {
-            "target": "Package",
-            "version": "[1.0.1, )"
-          },
           "EntityFramework": {
             "target": "Package",
             "version": "[6.2.0, )"

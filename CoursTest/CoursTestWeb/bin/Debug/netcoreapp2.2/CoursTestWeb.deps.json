@@ -24,7 +24,6 @@
     ".NETCoreApp,Version=v2.2": {
       "CoursTestWeb/1.0.0": {
         "dependencies": {
-          "BulletTrain": "1.0.1",
           "EntityFramework": "6.2.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -76,17 +75,6 @@
       },
       "Node.js/5.3.0": {},
       "popper.js/1.14.0": {},
-      "BulletTrain/1.0.1": {
-        "dependencies": {
-          "Newtonsoft.Json": "12.0.2-beta1"
-        },
-        "runtime": {
-          "bullet-train-dotnet-client.dll": {}
-        },
-        "compile": {
-          "bullet-train-dotnet-client.dll": {}
-        }
-      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.2-beta1",
@@ -3324,11 +3312,6 @@
       "sha512": "sha512-oamtAIKoHa/s45chV0TozJhrwTRUBURUVjFl1wHw1MrCplFDxmK41CMrMDQx1Eq08n7oEzqSHEPPWCdA6Mhb1w==",
       "path": "popper.js/1.14.0",
       "hashPath": "popper.js.1.14.0.nupkg.sha512"
-    },
-    "BulletTrain/1.0.1": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
