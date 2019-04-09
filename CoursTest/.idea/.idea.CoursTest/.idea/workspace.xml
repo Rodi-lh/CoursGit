@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2356298a-933f-40b8-a1ee-030c7334eea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CoursTest/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CoursTest/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTest.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/CoursTestWeb.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/CoursTestWeb.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/bullet-train-dotnet-client.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/bin/Debug/netcoreapp2.2/bullet-train-dotnet-client.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/CoursTestWeb.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/CoursTestWeb.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/Debug/netcoreapp2.2/CoursTestWeb.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoursTestWeb/wwwroot/js/site.js" afterDir="false" />
-    </list>
+    <list default="true" id="2356298a-933f-40b8-a1ee-030c7334eea2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,12 +269,12 @@
       <updated>1554731044761</updated>
       <workItem from="1554731047013" duration="3250000" />
       <workItem from="1554734323025" duration="1595000" />
-      <workItem from="1554809434934" duration="616000" />
+      <workItem from="1554809434934" duration="773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5461000" />
+    <option name="totallyTimeSpent" value="5618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
