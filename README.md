@@ -1,1 +1,1 @@
-# CoursGit
+# CoursGit v2
