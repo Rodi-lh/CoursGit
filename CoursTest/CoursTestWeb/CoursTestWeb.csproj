@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <PackageReference Include="bootstrap" Version="4.3.1" />
+        <PackageReference Include="BulletTrain" Version="1.0.1" />
+        <PackageReference Include="EntityFramework" Version="6.2.0" />
+        <PackageReference Include="Microsoft.AspNetCore.App" />
+        <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.2-beta1" />
+        <PackageReference Include="Node.js" Version="5.3.0" />
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\bullet-train-dotnet-client-master\bullet-train-dotnet-client.csproj" />
+    </ItemGroup>
+
+</Project>
